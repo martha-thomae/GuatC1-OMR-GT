@@ -1,6 +1,8 @@
 # GuatC1-OMR-GT
 
-This repository contains the ground-truth Optical Music Recognition (OMR) data for **GuatC 1**, a polyphonic choirbook in mensural notation, containing 27 music works. For a full digital edition of _GuatC 1_, please consult the [GitHub Repo ***GuatC 1***](https://github.com/martha-thomae/GuatC1). The present repository, however, is for the OMR ground truth data generated while processing this manuscript. It contains the equivalent of 384 pages of annotated data (folios 1v to 193r).
+This repository contains the **ground-truth Optical Music Recognition (OMR) data** for **GuatC 1**, a polyphonic choirbook in mensural notation containing 27 music works. 
+
+For the full **digital edition of _GuatC 1_**, please consult the [GuatC1 repository](https://github.com/martha-thomae/GuatC1). The present repository, however, is specifically dedicated to the **OMR ground-truth data generated while processing the manuscript**. It contains annotations for 384 manuscript pages (folios 1v–193r).
 
 The OMR ground truth data consists of:
 
@@ -13,8 +15,7 @@ The OMR ground truth data consists of:
 
 The repository contains two main folders:
 
-- [`processed`](./processed): contains the ready-to-use ground-truth files. The folder is divided into 27 sub-folders (corresponding to the 27 pieces of the manuscript). These subfolders contain the staff-region images and their corresponding agnostic and semantic encodings.
-- contains the ready-to-use ground-truth files. The directory is divided into 27 folders, each corresponding to one of the 27 pieces of the manuscript. Each of these folders contains the staff-region images and their corresponding agnostic and semantic encodings.
+- [`processed`](./processed): contains the ready-to-use ground-truth files. The folder is divided into 27 sub-folders, corresponding to the 27 pieces of the manuscript. These subfolders contain the staff-region images and their corresponding agnostic and semantic encodings.
 - [`original`](./original): contains the original output produced by MuRET. It consists of 27 JSON files, one for each piece. Each JSON file contains the information needed to identify and extract the individual staff regions and their corresponding encodings.
 
 ### Processed files
@@ -68,7 +69,7 @@ The `bounding_box` coordinates identify the staff region within the page image s
 The dataset contains **27 pieces** from the GuatC 1 manuscript. Each piece is represented by one JSON file in the `original` folder and by one sub-folder that contains its corresponding staff-region images and encodings in the `processed` folder.
 
 ### Provenance
-The `original` JSON files were obtained from MuRET, the OMR framework used to process this full manuscript book. The JSON files were extracted by MuRET's developer, David Rizo.
+The `original` JSON files were obtained from MuRET, the OMR framework used to process the manuscript. The JSON files were extracted by MuRET's developer, David Rizo.
 
 ## References
 Thomae, M.E. (2026) ‘Semi‑Automatic Pipeline for the Transcription of Mensural Polyphony into Symbolic Interpreted Scores’, Transactions of the International Society for Music Information Retrieval, 9(1), p. 293–308. Available at: https://doi.org/10.5334/tismir.292.
