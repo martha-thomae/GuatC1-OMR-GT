@@ -1,0 +1,1 @@
+clef.G:L2 metersign.Ct:L3 note.quarter_up:S2 note.quarter_up:S2 note.quarter_up:S2 note.quarter_up:S2 note.half_up:L2 dot:S2 note.quarter_up:L2 note.quarter_up:L2 note.quarter_up:S2 note.quarter_up:L2 note.quarter_up:S1 note.whole:L2 note.quarter_down:S3 note.quarter_down:S3 note.quarter_down:S3 note.quarter_down:S3 custos:L3

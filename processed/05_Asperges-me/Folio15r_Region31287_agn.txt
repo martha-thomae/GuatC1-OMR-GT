@@ -1,0 +1,1 @@
+clef.Fpetrucci:L4 metersign.Ct:L4 note.whole:S4 lnote.rect_up_left:S3 lnote.rect:L4 dot:L4 dot:S4 note.half_up:S2 note.whole:S4 note.breve:S2 note.whole:L3 note.breve:S2 note.whole:L3 note.breve:L1 rest.half:L3 note.whole:L3 note.half_down:L3 note.whole:L4 custos:S2

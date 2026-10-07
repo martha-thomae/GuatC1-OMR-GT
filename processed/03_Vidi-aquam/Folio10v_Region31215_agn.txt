@@ -1,0 +1,1 @@
+clef.C:L3 metersign.Ccut:L3 note.breve:L2 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:L3 lnote.oblique_down_left:L3 lnote.oblique:S2 custos:L3

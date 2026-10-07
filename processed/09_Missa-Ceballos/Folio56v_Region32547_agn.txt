@@ -1,0 +1,1 @@
+clef.C:L3 note.half_down:S4 dot:S4 note.quarter_down:L4 note.half_down:S3 note.half_down:L3 note.half_down:S3 note.half_down:S2 note.whole:L2 rest.half:L3 note.half_down:L3 note.quarter_down:L3 note.quarter_down:S2 note.quarter_down:L3 note.quarter_down:S3 note.half_down:L4 note.half_down:L4 note.whole:S4 custos:L4

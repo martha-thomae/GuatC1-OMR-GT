@@ -1,0 +1,1 @@
+clef.C:L3 lnote.rect:S1 lnote.rect:L2 ligature_separator:L1 lnote.rect:S1 lnote.rect_down_right:L2 lnote.rect_down_right:S2 lnote.rect:L2 note.breve:L3 note.breve:L3 note.breve:L3 note.breve:S2 lnote.rect:S2 lnote.rect_down_right:S3 lnote.rect_down_right:S3 note.breve:L3 custos:L3

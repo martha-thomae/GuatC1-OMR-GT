@@ -1,0 +1,1 @@
+clef.G:L2 rest.whole:L3 note.whole:L4 lnote.rect:S4 lnote.rect:S5 note.whole:L5 note.whole:S5 rest.whole:L4 note.whole:L4 note.half_down:S4 digit.3:S5 note.half_down:S5 custos:S5

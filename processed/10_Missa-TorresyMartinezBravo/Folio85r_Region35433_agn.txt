@@ -1,0 +1,1 @@
+clef.F:L4 rest.longa2:L3 rest.breve:L3 note.whole:S3 note.whole:L4 note.whole:L3 note.whole:S1 note.breve:S2 note.breve:L2 note.breve:S1 rest.longa2:L3 note.breve:L5 accidental.flat:S5 note.whole:S5 note.whole:S4 note.breve:L3 note.breve:L4 note.breve:S3 note.whole:L3 rest.whole:L3 note.breve:L5 note.breve:S1 note.breve:L3 verticalLine:L1 verticalLine:L1

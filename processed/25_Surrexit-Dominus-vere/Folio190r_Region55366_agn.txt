@@ -1,0 +1,1 @@
+clef.F:L4 accidental.flat:L2 lnote.rect:L4 lnote.rect:S4 ligature_separator:L1 lnote.rect:L4 lnote.rect_down_right:S4 lnote.rect:S4 ligature_separator:L1 lnote.rect:S4 lnote.rect_down_right:L5 note.whole:L4 note.whole:L3 lnote.rect:L4 lnote.rect:S3 note.breve:L3 verticalLine:L1 verticalLine:L1

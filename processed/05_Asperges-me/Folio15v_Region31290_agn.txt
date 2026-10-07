@@ -1,0 +1,1 @@
+clef.C:L1 metersign.Ct:L3 lnote.rect_up_left:S2 lnote.rect:L3 ligature_separator:L1 lnote.rect_up_left:L3 lnote.rect:L2 note.whole:S2 note.whole:L3 note.whole:L3 note.whole:L3 note.whole:L3 note.whole:S3 accidental.flat:L4 note.whole:L4 dot:S3 note.half_down:S3 note.breve:S3 note.whole:L3 note.whole:S3 rest.half:L3 note.half_down:S3 note.half_down:S3 custos:S3

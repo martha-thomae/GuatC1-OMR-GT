@@ -1,0 +1,1 @@
+clef.F:L4 accidental.flat:L2 metersign.Ct:L3 rest.longa2:L3 note.breve:L4 lnote.rect:L4 lnote.rect:S4 note.breve:L4 note.breve:S4 lnote.rect_down_left:L4 lnote.rect:L3 note.breve:L4 lnote.rect:S4 lnote.rect:L5

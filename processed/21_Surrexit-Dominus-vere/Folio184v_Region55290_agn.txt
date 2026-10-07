@@ -1,0 +1,1 @@
+clef.C:L1 accidental.flat:L4 metersign.Ct:L3 rest.longa2:L3 rest.breve:L3 note.breve:S1 lnote.rect:S2 lnote.rect:L3 note.breve:S2 note.breve:L3 lnote.oblique_down_left:S2 lnote.oblique:L2 note.breve:S2 lnote.rect:S3 lnote.rect_down_right:S2 lnote.rect_down_right:S3 lnote.rect:S2 ligature_separator:L1 lnote.oblique_down_left:L3 lnote.oblique:S2 verticalLine:L1 verticalLine:L1

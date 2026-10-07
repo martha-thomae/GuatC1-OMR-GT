@@ -1,0 +1,1 @@
+clef.C:L3 note.breveBlack:S0 note.breveBlack:L3 lnote.rect_up_left:S-2 lnote.rect:L-1 note.breveBlack:L3 note.breveBlack:L3 note.breveBlack:L3 note.breveBlack:L4 note.breveBlack:L4 lnote.rect_up_left:S-2 lnote.rect:L-1 note.breveBlack:S3 note.breveBlack:S3 note.breveBlack:L3 note.longaBlack_down:L3 verticalLine:L1

@@ -1,0 +1,1 @@
+clef.G:L2 note.whole:S3 dot:S3 note.half_up:L3 note.half_up:S2 note.whole:L2 accidental.sharp:S0 note.half_up:S1 note.breve:L2 verticalLine:L1 verticalLine:L1

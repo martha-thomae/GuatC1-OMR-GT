@@ -1,0 +1,1 @@
+clef.C:L3 note.half_down:S3 note.whole:L4 note.breve:L4 rest.whole:L4 rest.half:L4 note.half_down:L4 note.half_down:S4 note.half_down:L3 note.half_down:S3 note.half_down:L4 note.quarter_down:S4 note.quarter_down:L4 note.half_down:L4 dot:S4 accidental.sharp:S3 note.beamedRight1_down:S3 note.beamedLeft1_down:L3 note.half_down:S3 note.breve:L4 verticalLine:L1 verticalLine:L1

@@ -1,0 +1,1 @@
+clef.Fpetrucci:L4 note.half_down:L3 note.half_down:L4 dot:S3 note.quarter_down:S3 note.half_down:L3 note.half_up:S2 note.whole:L2 note.breve:S1 rest.half:L4 note.half_down:L5 note.half_down:L5 note.half_down:L5 note.half_down:L4 dot:S4 note.quarter_down:S3 note.half_down:L3 note.half_down:S2 lnote.rect_up_left:L3 lnote.rect:S1 custos:S2

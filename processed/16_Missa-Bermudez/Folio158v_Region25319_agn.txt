@@ -1,0 +1,1 @@
+clef.G:L2 accidental.sharp:L2 note.quarter_up:L2 note.wholeBlack:S2 note.whole:L2 note.whole:S2 note.half_up:S2 note.whole:L3 note.whole:S3 note.half_down:S3 note.whole:S3 note.half_down:S3 note.whole:S2 accidental.sharp:L2 note.whole:L2 metersign.Ct:L3 custos:L3

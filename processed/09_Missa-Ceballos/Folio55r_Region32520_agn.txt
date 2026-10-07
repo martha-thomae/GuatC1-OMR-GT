@@ -1,0 +1,1 @@
+clef.C:L2 metersign.Ct:L3 rest.longa2:L3 note.whole:S4 accidental.flat:L5 note.half_down:L5 note.half_down:S4 note.half_down:S3 note.half_down:L4 note.whole:S4 rest.half:L4 note.half_down:L4 note.half_down:S4 accidental.natural:L5 note.half_down:L5 note.half_down:S5 note.half_down:S4 dot:S4 note.quarter_down:L4 custos:L4

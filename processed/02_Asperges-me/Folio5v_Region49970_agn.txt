@@ -1,0 +1,1 @@
+clef.C:L3 lnote.rect_up_left:S-2 lnote.rect:L-1 ligature_separator:L1 lnote.rectBlack:L3 lnote.rectBlack:S3 note.breveBlack:S3 note.breveBlack:S3 lnote.rect_up_left:S-2 lnote.rect:L-1 note.breveBlack:L4 lnote.rectBlack:L4 lnote.rectBlack:S3 ligature_separator:L1 lnote.rectBlack:S3 lnote.rectBlack:L4 verticalLine:L1

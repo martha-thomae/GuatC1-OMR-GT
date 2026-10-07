@@ -1,0 +1,1 @@
+clef.F:L4 note.whole:L3 note.whole:S3 note.breve:L4 note.breve:S3 rest.longa2:L3 rest.longa2:L3 rest.breve:L3 note.breve:L5 note.breve:S4 note.whole:L5 note.breve:S5 note.whole:S4 note.breve:S3 rest.longa2:L3 rest.longa2:L3 rest.longa2:L4 rest.breve:L4 note.breve:L5 dot:S5 accidental.sharp:S4 note.whole:S4 note.breve:L5 note.breve:S5 accidental.sharp:S4 custos:S4

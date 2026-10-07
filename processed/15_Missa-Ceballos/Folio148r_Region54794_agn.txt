@@ -1,0 +1,1 @@
+clef.C:L4 note.wholeBlack:L2 note.wholeBlack:L1 note.breveBlack:S2 note.breveBlack:L3 note.breve:S3 rest.breve:L2 note.breve:S1 note.whole:L2 note.wholeBlack:S2 note.wholeBlack:S1 note.breveBlack:L3 note.breveBlack:S3 note.breve:L4 rest.breve:L2 note.breve:S0 note.whole:L1 custos:S1

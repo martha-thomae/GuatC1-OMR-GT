@@ -1,0 +1,1 @@
+clef.G:L2 accidental.flat:L3 note.breve:S3 ligature:L3 accidental.sharp:S4 fermata.above:L5 note.breve:L2 ligature:S2 accidental.sharp:S4 note.breve:S3 rest.breve:L3 rest.whole:L3 ligature:L2 note.breve:S3 note.whole:L3 note.longa_up:S2 verticalLine:L1

@@ -1,0 +1,1 @@
+clef.C:L3 ligature:S1 ligature:L3 ligature:L3 note.breveBlack:S3 verticalLine:L1 verticalLine:L1 metersign.Ccut:L3 lnote.rect:S3 lnote.rect_down_right:L4 lnote.rect_down_right:S4 lnote.rect:L4 ligature_separator:L1 lnote.oblique_down_left:L5 lnote.oblique:S4 ligature_separator:L1 lnote.oblique_down_left:L4 lnote.oblique:S3 note.breve:L4 note.breve:S3 custos:S2

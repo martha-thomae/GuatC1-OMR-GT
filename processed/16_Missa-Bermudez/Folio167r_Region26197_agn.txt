@@ -1,0 +1,1 @@
+clef.C:L4 metersign.Ct:L3 digit.3:L3 note.whole:L4 note.half_down:S3 note.whole:L3 note.half_down:S2 note.quarter_down:L3 note.wholeBlack:L2 note.whole:S1 note.whole:S0 note.half_down:S2 note.whole:L1 note.half_up:S1 note.quarter_up:L2 note.wholeBlack:L1 note.whole:S0 note.whole:S1 note.half_up:S2 custos:L2

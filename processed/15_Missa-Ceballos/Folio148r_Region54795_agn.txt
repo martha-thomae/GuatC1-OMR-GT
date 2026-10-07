@@ -1,0 +1,1 @@
+clef.C:L4 metersign.Ct:L3 digit.3:L3 rest.longa2:L3 rest.breve:L3 note.breve:S0 note.whole:L1 note.wholeBlack:S1 note.wholeBlack:S0 note.breveBlack:L2 note.breveBlack:S2 note.breve:L3 rest.breve:L2 note.breve:L1 note.whole:S1 custos:L2

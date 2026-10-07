@@ -1,0 +1,1 @@
+clef.C:L3 accidental.flat:S2 note.breve:L3 dot:S3 rest.whole:L3 rest.half:L3 note.half_down:L3 note.half_down:S4 note.half_down:L4 note.half_down:S4 note.half_down:S3 note.half_down:L3 note.whole:S4 note.half_down:S4 note.half_down:S3 note.half_down:S3 note.half_down:L3 note.half_down:L3 custos:L2

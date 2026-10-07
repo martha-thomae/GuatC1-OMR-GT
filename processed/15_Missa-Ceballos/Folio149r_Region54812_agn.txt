@@ -1,0 +1,1 @@
+clef.G:L2 note.breve:L2 note.breve:L2 note.breve:S2 note.breve:L3 lnote.rect:L2 lnote.rect:S3 note.breve:L4 note.longa_down:S4 verticalLine:L1 verticalLine:L1

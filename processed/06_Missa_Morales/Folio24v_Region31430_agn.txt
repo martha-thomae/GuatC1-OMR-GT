@@ -1,0 +1,1 @@
+clef.G:L2 note.whole:L3 note.whole:S3 note.whole:L4 note.whole:S4 rest.whole:L3 note.whole:S2 dot:S2 note.half_down:L3 note.whole:S3 rest.whole:L3 lnote.rect:S4 lnote.rect:L5 note.breve:S4 note.whole:S3 note.whole:S3 dot:S3 note.quarter_up:L3 note.quarter_up:S2 note.whole:L3 note.breve:S2 verticalLine:L1 verticalLine:L1

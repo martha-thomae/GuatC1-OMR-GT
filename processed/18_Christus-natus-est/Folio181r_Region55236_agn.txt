@@ -1,0 +1,1 @@
+clef.F:L4 metersign.Ct:L3 rest.longa2:L3 rest.whole:L3 rest.half:L3 note.whole:S1 note.half_up:L2 note.half_up:S2 note.half_up:L3 note.whole:S3 lnote.rect_up_left:L4 lnote.rect:S3 note.half_up:S1 note.whole:L3 note.half_up:S2 note.half_up:L3 note.half_down:S4 note.whole:L4 note.whole:S3 note.half_down:L5 note.whole:L3 custos:S3

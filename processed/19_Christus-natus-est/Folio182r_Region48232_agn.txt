@@ -1,0 +1,1 @@
+clef.F:L3 accidental.flat:L1 note.whole:L2 note.half_up:S0 dot:S0 note.quarter_up:L1 note.whole:S1 note.whole:S3 note.half_up:L2 note.half_up:L2 note.whole:S3 note.breve:S1 verticalLine:L1

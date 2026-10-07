@@ -1,0 +1,1 @@
+clef.G:L2 note.half_down:L3 note.half_down:S3 note.half_down:L3 note.half_up:L2 note.half_up:S2 note.half_up:L3 note.half_down:S3 note.half_up:S2 note.half_down:S3 note.half_up:S2 note.whole:S2 note.half_up:L2 note.whole:S1 note.half_up:L1 note.breve:S1 fermata.above:S3 rest.longa2:L3 rest.breve:L3 rest.whole:L3 lnote.rect_up_left:S1 lnote.rect:S2 custos:S3

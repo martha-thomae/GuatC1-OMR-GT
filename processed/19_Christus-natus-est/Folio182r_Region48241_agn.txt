@@ -1,0 +1,1 @@
+clef.G:L2 accidental.flat:L3 metersign.Ct:L3 rest.longa2:L3 rest.breve:L3 rest.whole:L3 note.breve:L2 ligature:S2 note.whole:S3 ligature:L4 ligature:S4 custos:S4
