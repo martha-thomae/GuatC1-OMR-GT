@@ -20,7 +20,7 @@ The repository contains two main folders:
 
 ### Processed files
 
-The files in the `processed` folder are organized by piece and contain the individual staff-region images together with their corresponding encodings. These files can be used directly as ground-truth data for OMR experiments.
+The files in the `processed` folder are organized by piece and contain the individual staff-region images together with their corresponding encodings. **These files can be used directly as ground-truth data for OMR experiments.** They were obtained by using the Python script included in the repo (`retrieve_staffimg_agnenc_semenc.py`) over the JSON files included in the `original` folder.
 
 ### Original MuRET output
 
