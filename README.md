@@ -1,6 +1,6 @@
 # GuatC1-OMR-GT
 
-This repository contains the ground-truth Optical Music Recognition (OMR) data for **GuatC 1**, a polyphonic choirbook in mensural notation, containing 27 music works. For a full digital edition of _GuatC 1_, please consult the [GitHub Repo **GuatC 1**__] (https://github.com/martha-thomae/GuatC1). The present repository, however, is for the OMR ground truth data generated while processing this manuscript. It contains the equivalent of 384 pages of annotated data (folios 1v to 193r).
+This repository contains the ground-truth Optical Music Recognition (OMR) data for **GuatC 1**, a polyphonic choirbook in mensural notation, containing 27 music works. For a full digital edition of _GuatC 1_, please consult the [GitHub Repo ***GuatC 1***] (https://github.com/martha-thomae/GuatC1). The present repository, however, is for the OMR ground truth data generated while processing this manuscript. It contains the equivalent of 384 pages of annotated data (folios 1v to 193r).
 
 The OMR ground truth data consists of:
 
