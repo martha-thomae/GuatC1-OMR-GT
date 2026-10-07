@@ -1,9 +1,9 @@
 # GuatC1-OMR-GT
 This repository contains the ground truth OMR files for the manuscript GuatC 1, these consist of:
-- images of each of the staff regions in the pages of the manuscript
-- and the encoding of the sequence of music symbols in said regions, which are provided in two formats (as done by the _Music Recognition Encoding and Transcription (MuRET)_ OMR framework):
-  - agnostic encoding
-  - semantic encoding
+- **images of each of the staff regions** in the pages of the manuscript
+- and the **encoding of the sequence of music symbols in said regions**, which are provided in two formats (as done by the _Music Recognition Encoding and Transcription (MuRET)_ OMR framework):
+  - **agnostic encoding**
+  - **semantic encoding**
 
 The ready-to-use files are in the [processed folder](./processed), where the staff region images and the two encodings are found for each of the 27 pieces included in the manuscript. These files were extracted from MuRET's original output, which can be found in the [original folder](./original), with 27 _JSON files_ that include the information needed to extract the individual staff images and encodings. Each JSON file corresponds to one piece in the manuscript, and it contains information about all the regions in said piece. The information for each region includes:
 - `image_name`: name of the image that contains the region
