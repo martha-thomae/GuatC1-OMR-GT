@@ -39,7 +39,7 @@ For each region, the following information is provided:
 | `agnostic` | Agnostic encoding of the sequence of music symbols in the region. |
 
 #### Example
-For example, for the first region of the [first piece, *Asperges me*](https://github.com/OmniOMR/mensomr_data/blob/e1dff105ddf86c8a8edb70bbcee2fa388cbe2535/muret_guatemala/original/01_Asperges-me.json#L3-L16), is represented as follows:
+For example, for the first region of the [first piece, *Asperges me*](./original/01_Asperges-me.json#L3-L16), is represented as follows:
 
 ```json
 {
