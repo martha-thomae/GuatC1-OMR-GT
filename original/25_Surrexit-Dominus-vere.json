@@ -1,0 +1,158 @@
+{
+    "regions": [
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefC1\n*k[b-]\n*met(C)\nSr_3\nM.f\\\nmg\\\nma\\\nmb-\\\nMcc\\\nMa\\\nsb-\nMa\\\nscc\nsa\nsg\nsr_3\nMr_3\nmf\\\nmg\\\n*custosa\n",
+            "bounding_box": {
+                "fromX": 292,
+                "toX": 1168,
+                "fromY": 112,
+                "toY": 269
+            },
+            "region_id": 55365,
+            "agnostic": "clef.C:L1, accidental.flat:L4, metersign.Ct:L3, rest.breve:L3, note.half_down:S2, dot:S2, note.quarter_down:L3, note.quarter_down:S3, note.quarter_down:L4, note.half_down:S4, note.half_down:S3, note.whole:L4, note.half_down:S3, note.whole:S4, note.whole:S3, note.whole:L3, rest.whole:L3, rest.half:L3, note.quarter_down:S2, note.quarter_down:L3, custos:S3",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefC1\n*k[b-]\nma\\\nmb-\\\nscc\nMb-\\\nMcc\\\nMa\\\nMg\\\nsf\nMe/\nSf;\nMr_3\n*sc\nMa\\\nMb-\\\nMg\\\nMa\\\nmr_3\nma\\\nMb-\\\nMg\\\n*custosf\n",
+            "bounding_box": {
+                "fromX": 175,
+                "toX": 1172,
+                "fromY": 287,
+                "toY": 434
+            },
+            "region_id": 55364,
+            "agnostic": "clef.C:L1, accidental.flat:L4, note.quarter_down:S3, note.quarter_down:L4, note.whole:S4, note.half_down:L4, note.half_down:S4, note.half_down:S3, note.half_down:L3, note.whole:S2, note.half_up:L2, fermata.above:L5, note.breve:S2, rest.half:L3, signumCongruentiae:L5, note.half_down:S3, note.half_down:L4, note.half_down:L3, note.half_down:S3, rest.seminima:L3, note.quarter_down:S3, note.half_down:L4, note.half_down:L3, custos:S2",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefC1\n*k[b-]\nmf\\\nmg\\\nma\\\nmb-\\\nMcc\\\nMg\\\nM.cc\\\nmb-\\\nma\\\nmg\\\nsa\nMf\\\nMa\\\nM.a\\\nmg\\\nMe\\\nSf#\n==\n",
+            "bounding_box": {
+                "fromX": 170,
+                "toX": 1146,
+                "fromY": 456,
+                "toY": 598
+            },
+            "region_id": 55363,
+            "agnostic": "clef.C:L1, accidental.flat:L4, note.quarter_down:S2, note.quarter_down:L3, note.quarter_down:S3, note.quarter_down:L4, note.half_down:S4, note.half_down:L3, note.half_down:S4, dot:S4, note.quarter_down:L4, note.quarter_down:S3, note.quarter_down:L3, note.whole:S3, note.half_down:S2, note.half_down:S3, note.half_down:S3, dot:S3, note.quarter_down:L3, note.half_down:L2, accidental.sharp:S2, note.breve:S2, verticalLine:L1, verticalLine:L1",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefF4\n*k[b-]\n*met(C)\nsr_3\nM.BB-/\nmC/\nmD\\\nmE\\\nMF\\\nMD\\\nMC/\nMD/\nM.BB-/\nmC/\nMD/\nsC\nMr_3\nMF\\\nsE\nMD\\\nmBB-/\nmC/\n*custosD\n",
+            "bounding_box": {
+                "fromX": 285,
+                "toX": 1190,
+                "fromY": 872,
+                "toY": 994
+            },
+            "region_id": 55362,
+            "agnostic": "clef.F:L4, accidental.flat:L2, metersign.Ct:L3, rest.whole:L3, note.half_up:L2, dot:S2, note.quarter_up:S2, note.quarter_down:L3, note.quarter_down:S3, note.half_down:L4, note.half_down:L3, note.half_up:S2, note.half_up:L3, note.half_up:L2, dot:S2, note.quarter_up:S2, note.half_up:L3, note.whole:S2, rest.half:L3, note.half_down:L4, note.whole:S3, note.half_down:L3, note.quarter_up:L2, note.quarter_up:S2, custos:L3",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefF4\n*k[b-]\nmD\\\nmE\\\nMF\\\nMD\\\nMA\\\nMr_4\nMG\\\nMF\\\nMF\\\n[sBB-\nsC]\nSF\nsr_3\n*sc\nMr_3\nME\\\nMF\\\nMD\\\nMG\\\nMC\\\nMF\\\nMF\\\n*custosC\n",
+            "bounding_box": {
+                "fromX": 177,
+                "toX": 1168,
+                "fromY": 1016,
+                "toY": 1154
+            },
+            "region_id": 55360,
+            "agnostic": "clef.F:L4, accidental.flat:L2, note.quarter_down:L3, note.quarter_down:S3, note.half_down:L4, note.half_down:L3, note.half_down:L5, rest.half:L4, note.half_down:S4, note.half_down:L4, note.half_down:L4, lnote.rect_up_left:L2, lnote.rect:S2, fermata.below:L2, note.breve:L4, rest.whole:L3, signumCongruentiae:L5, rest.half:L3, note.half_down:S3, note.half_down:L4, note.half_down:L3, note.half_down:S4, note.half_down:S2, note.half_down:L4, note.half_down:L4, custos:S2",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "189v.jpg",
+            "semantic": "*clefF4\n*k[b-]\nMC/\nME\\\nMF\\\nMC\\\nmD\\\nmE\\\nmF\\\nmG\\\nsA\nMr_4\nMD\\\nMAA/\nMAA/\nSD\n==\n",
+            "bounding_box": {
+                "fromX": 170,
+                "toX": 1148,
+                "fromY": 1183,
+                "toY": 1316
+            },
+            "region_id": 55359,
+            "agnostic": "clef.F:L4, accidental.flat:L2, note.half_up:S2, note.half_down:S3, note.half_down:L4, note.half_down:S2, note.quarter_down:L3, note.quarter_down:S3, note.quarter_down:L4, note.quarter_down:S4, note.whole:L5, rest.half:L4, note.half_down:L3, note.half_up:S1, note.half_up:S1, note.breve:L3, verticalLine:L1, verticalLine:L1",
+            "image_id": 3104,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:189v.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "190r.jpg",
+            "semantic": "*clefC3\n*k[b-]\n*met(C)\nM.B-\\\nmc\\\nmd\\\nme\\\nM.f\\\nme\\\nMc\\\nMf\\\nMe\\\nMf\\\nM.d\\\nme\\\nsf\nMe\\\nsf\nMr_3\n*custosB\n",
+            "bounding_box": {
+                "fromX": 337,
+                "toX": 1188,
+                "fromY": 171,
+                "toY": 292
+            },
+            "region_id": 55370,
+            "agnostic": "clef.C:L3, accidental.flat:S2, metersign.Ct:L3, note.half_down:S2, dot:S2, note.quarter_down:L3, note.quarter_down:S3, note.quarter_down:L4, note.half_down:S4, dot:S4, note.quarter_down:L4, note.half_down:L3, note.half_down:S4, note.half_down:L4, note.half_down:S4, note.half_down:S3, dot:S3, note.quarter_down:L4, note.whole:S4, note.half_down:L4, note.whole:S4, rest.half:L3, custos:S2",
+            "image_id": 3105,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:190r.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "190r.jpg",
+            "semantic": "*clefC3\n*k[b-]\nmB-\nmc\\\nmd\\\nme\\\nsf\nMf\\\nMf\\\nMc\\\nMe\\\nMd\\\nMf\\\nMc\\\n[sd\nsc]\nSc\nSr_3\n*sc\nsr_3\nMr_4\n*custose\n",
+            "bounding_box": {
+                "fromX": 246,
+                "toX": 1198,
+                "fromY": 313,
+                "toY": 453
+            },
+            "region_id": 55369,
+            "agnostic": "clef.C:L3, accidental.flat:S2, note.quarter_down:S2, note.quarter_down:L3, note.quarter_down:S3, note.quarter_down:L4, note.whole:S4, note.half_down:S4, note.half_down:S4, note.half_down:L3, note.half_down:L4, note.half_down:S3, note.half_down:S4, note.half_down:L3, lnote.rect_up_left:S3, lnote.rect:L3, note.breve:L3, rest.breve:L3, rest.whole:L3, rest.half:L4, custos:L4",
+            "image_id": 3105,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:190r.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "190r.jpg",
+            "semantic": "*clefC3\n*k[b-]\nMe\\\nMf\\\nMd\\\nse\nMr_4\nMe\\\nMf\\\nM.d\\\nme\\\nM.f\\\nme\\\nsd\nMc\\\nSd\n==\n",
+            "bounding_box": {
+                "fromX": 248,
+                "toX": 1168,
+                "fromY": 481,
+                "toY": 598
+            },
+            "region_id": 55368,
+            "agnostic": "clef.C:L3, accidental.flat:S2, note.half_down:L4, note.half_down:S4, note.half_down:S3, note.whole:L4, rest.half:L4, note.half_down:L4, note.half_down:S4, note.half_down:S3, dot:S3, note.quarter_down:L4, note.half_down:S4, dot:S4, note.quarter_down:L4, note.whole:S3, note.half_down:L3, note.breve:S3, verticalLine:L1, verticalLine:L1",
+            "image_id": 3105,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:190r.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "190r.jpg",
+            "semantic": "*clefF4\n*k[b-]\n*met(C)\nLr_3\nSF\n[SF\nSG]\nSF\nSG\n[SF\nLD]\nSF\n[SG\nSA]\n",
+            "bounding_box": {
+                "fromX": 358,
+                "toX": 1181,
+                "fromY": 865,
+                "toY": 998
+            },
+            "region_id": 55367,
+            "agnostic": "clef.F:L4, accidental.flat:L2, metersign.Ct:L3, rest.longa2:L3, note.breve:L4, lnote.rect:L4, lnote.rect:S4, note.breve:L4, note.breve:S4, lnote.rect_down_left:L4, lnote.rect:L3, note.breve:L4, lnote.rect:S4, lnote.rect:L5",
+            "image_id": 3105,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:190r.jpg/full/full/0/default.jpg"
+        },
+        {
+            "image_name": "190r.jpg",
+            "semantic": "*clefF4\n*k[b-]\n[SF\nSG]\n[SF\nSG\nSA]\n[SG\nLA]\nsF\nsD\n[LF\nLE]\nSD\n==\n",
+            "bounding_box": {
+                "fromX": 256,
+                "toX": 1184,
+                "fromY": 1022,
+                "toY": 1163
+            },
+            "region_id": 55366,
+            "agnostic": "clef.F:L4, accidental.flat:L2, lnote.rect:L4, lnote.rect:S4, ligature_separator:L1, lnote.rect:L4, lnote.rect_down_right:S4, lnote.rect:S4, ligature_separator:L1, lnote.rect:S4, lnote.rect_down_right:L5, note.whole:L4, note.whole:L3, lnote.rect:L4, lnote.rect:S3, note.breve:L3, verticalLine:L1, verticalLine:L1",
+            "image_id": 3105,
+            "url": "https://muret.dlsi.ua.es/images/iiif/2/6%3A232:masters:190r.jpg/full/full/0/default.jpg"
+        }
+    ]
+}
